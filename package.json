@@ -1,0 +1,12 @@
+{
+  "name": "maybe-include",
+  "version": "0.0.0",
+  "description": "Include a string in a template literal, if a condition is truthy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"nope\""
+  },
+	"keywords": ["maybe", "include", "template", "literal", "string"],
+  "author": "zentus",
+  "license": "MIT"
+}
