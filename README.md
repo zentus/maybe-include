@@ -22,7 +22,7 @@ console.log(`${maybe(drink, 'i like ' + drink + ' too')}`)
 //=> "i like tea too"
 
 console.log(`to be ${maybe(false, 'hmmmm ')}or not to be?`)
-//=> "to be or not to be"
+//=> "to be or not to be?"
 ```
 
 ### License
