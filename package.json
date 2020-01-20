@@ -3,9 +3,6 @@
   "version": "0.0.2",
   "description": "Include a string in a template literal, if a condition is truthy",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"nope\""
-  },
   "keywords": [
     "maybe",
     "include",
@@ -13,6 +10,10 @@
     "literal",
     "string"
   ],
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/zentus/maybe-include.git"
+  },
   "author": "zentus",
   "license": "MIT"
 }
